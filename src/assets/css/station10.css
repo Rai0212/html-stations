@@ -40,7 +40,7 @@ main{ /* cardの親要素は，main */
 /* PC: 1200px 以上 */
 @media screen and (min-width: 1200px) {
     .card{
-        background-color: white;
+        background-color: red;
         padding: 100px;
     }
     
@@ -82,7 +82,7 @@ main{ /* cardの親要素は，main */
 /* タブレット: 768px 以上 1200px 未満 */
 @media screen and (min-width: 768px) and (max-width: 1199px) {
     .card{
-        background-color: white;
+        background-color: blue;
         padding: 100px;
     }
     
@@ -124,7 +124,7 @@ main{ /* cardの親要素は，main */
 /* スマートフォン: 320px 以上 768px 未満 */
 @media screen and (min-width: 320px) and (max-width: 767px) {
     .card{
-        background-color: white;
+        background-color: yellow;
         padding: 100px;
     }
     
